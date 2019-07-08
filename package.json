@@ -1,7 +1,7 @@
 {
-  "name": "island",
+  "name": "hotboom",
   "version": "1.0.0",
-  "description": "7七月的微信公众号：林间有风",
+  "description": "个人koa练习项目",
   "main": "app.js",
   "dependencies": {
     "axios": "^0.18.0",
@@ -31,7 +31,7 @@
     "type": "git"
   },
   "keywords": [
-    "island"
+    "hotboom"
   ],
   "author": "7yue",
   "license": "MIT",
